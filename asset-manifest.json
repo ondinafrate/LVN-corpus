@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LVN-corpus/static/css/main.c1197485.css",
+    "main.js": "/LVN-corpus/static/js/main.eaf537ef.js",
+    "static/js/787.ea341896.chunk.js": "/LVN-corpus/static/js/787.ea341896.chunk.js",
+    "index.html": "/LVN-corpus/index.html",
+    "main.c1197485.css.map": "/LVN-corpus/static/css/main.c1197485.css.map",
+    "main.eaf537ef.js.map": "/LVN-corpus/static/js/main.eaf537ef.js.map",
+    "787.ea341896.chunk.js.map": "/LVN-corpus/static/js/787.ea341896.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1197485.css",
+    "static/js/main.eaf537ef.js"
+  ]
+}
